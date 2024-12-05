@@ -12,15 +12,10 @@ Ovo je primer README fajla. Pomoću njega možete strukturirati informacije, dod
 
 ## Video
 
-Pogledajte demonstraciju projekta u nastavku:
+Pogledajte demonstraciju projekta klikom na sliku ispod:
 
-```html
-<iframe
-  title="vimeo-player"
-  src="https://player.vimeo.com/video/1036475022?h=9da79e5f69"
-  width="640"
-  height="360"
-  frameborder="0"
-  allowfullscreen
-></iframe>
+[![Pogledajte video](https://via.placeholder.com/640x360.png?text=Kliknite+da+pogledate+video)](https://player.vimeo.com/video/1036475022?h=9da79e5f69)
+
+```
+
 ```
