@@ -32,7 +32,7 @@ The Arduino sketch is included in the `lighting_up.ino` file in this repository.
 ## Demo Video
 Check out the gameplay demo below:
 
-[![Watch the video](https://img.youtube.com/vi/_aMglHOKeqo/0.jpg)](https://www.youtube.com/shorts/VvLbyTwm2pk)
+[![Watch the video](https://img.youtube.com/vi/VvLbyTwm2pk/0.jpg)](https://www.youtube.com/shorts/VvLbyTwm2pk)
 
 
 ## Customization
