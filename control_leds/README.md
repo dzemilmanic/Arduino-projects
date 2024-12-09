@@ -26,18 +26,17 @@ This is a simple **Memory Game** built using an Arduino board, LEDs, and buttons
 
 ## Circuit Diagram
 
-- Connect each LED to a digital pin through a resistor.
-- Connect each button to a digital pin and use a pull-down resistor for stable input.
+- Connect each LED to a digital pin through a 220Ω resistor.
+- Connect each button to a digital pin and use a 10kΩ pull-down resistor for stable input.
 
 ## Code
 
-The Arduino sketch is included in the `memory_game.ino` file in this repository. Upload it to your Arduino board to start playing.
+The Arduino sketch is included in the `control_leds.ino` file in this repository. Upload it to your Arduino board to start playing.
 
 ## Demo Video
 Check out the gameplay demo below:
 
 [![Watch the video](https://img.youtube.com/vi/_aMglHOKeqo/0.jpg)](https://www.youtube.com/shorts/_aMglHOKeqo)
-
 
 ## How to Play
 
