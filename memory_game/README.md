@@ -34,9 +34,10 @@ This is a simple **Memory Game** built using an Arduino board, LEDs, and buttons
 The Arduino sketch is included in the `memory_game.ino` file in this repository. Upload it to your Arduino board to start playing.
 
 ## Demo Video
+Check out the gameplay demo below:
 
-Check out the gameplay demo on YouTube:
-[Watch the video](https://www.youtube.com/shorts/_aMglHOKeqo)
+[![Watch the video](https://img.youtube.com/vi/_aMglHOKeqo/0.jpg)](https://www.youtube.com/shorts/_aMglHOKeqo)
+
 
 ## How to Play
 
