@@ -15,6 +15,7 @@ Most of the projects in this repository require basic Arduino components. Here�
 - Arduino board (e.g., Arduino Uno)
 - LEDs (various colors)
 - Push buttons
+- Buzzer (active or passive)
 - Resistors (220Ω for LEDs, 10kΩ for buttons)
 - Breadboard and jumper wires
 
