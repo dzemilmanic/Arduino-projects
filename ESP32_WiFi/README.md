@@ -38,7 +38,7 @@ The Arduino sketch is included in the `ESP32_WiFi.ino` file in this repository. 
 
 Check out the gameplay demo below:
 
-[![Watch the video](https://img.youtube.com/vi/_aMglHOKeqo/0.jpg)](https://www.youtube.com/shorts/_aMglHOKeqo)
+[![Watch the video](https://img.youtube.com/vi/DCFN3LZFeBg/0.jpg)](https://youtube.com/shorts/DCFN3LZFeBg)
 
 ## How to Use
 
