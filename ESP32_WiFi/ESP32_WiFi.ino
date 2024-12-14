@@ -1,17 +1,17 @@
 #define BLYNK_PRINT Serial
 
 /* Fill in information from Blynk Device Info here */
-#define BLYNK_TEMPLATE_ID "TMPL47GKxvstz"
-#define BLYNK_TEMPLATE_NAME "LED on and off"
-#define BLYNK_AUTH_TOKEN "KkBb7A2g-7ZK78laN3VwqJ1XgQ3E-mM0"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_BLYNK_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
 
 // Your WiFi credentials.
-char ssid[] = "Manic";
-char pass[] = "fazafara";
+char ssid[] = "your_ssid";
+char pass[] = "your_pass";
 
 // Define pin numbers for the LEDs
 const int LED1 = 13;
