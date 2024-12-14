@@ -1,4 +1,4 @@
-# LED Control with Blynk and RGB Cycling
+# ESP32 LED Control with Blynk and RGB Cycling
 
 This project allows you to control multiple LEDs, including an RGB LED, using the Blynk app and an ESP32 board. It also features automatic RGB color cycling and manual control over the RGB LED colors.
 
