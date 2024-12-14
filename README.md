@@ -13,7 +13,7 @@ Welcome to the **Arduino Projects Collection**! This repository contains a serie
 Most of the projects in this repository require basic Arduino components. Here’s a list of common items you’ll need:
 
 - Arduino board (e.g., Arduino Uno)
-- ESP32
+- ESP32 board
 - Ultrasonic distance sensor
 - LEDs (various colors)
 - Push buttons
