@@ -14,7 +14,8 @@ Most of the projects in this repository require basic Arduino components. Hereâ€
 
 - Arduino board (e.g., Arduino Uno)
 - ESP32 board
-- Ultrasonic distance sensor
+- Ultrasonic Sensor
+- Servo Motor
 - LEDs (various colors)
 - Push buttons
 - Buzzer (active or passive)
