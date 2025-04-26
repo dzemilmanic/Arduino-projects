@@ -1,14 +1,15 @@
-# 🌈 ESP32 LED Control with Blynk and RGB Cycling
+# 💡 ESP32 LED Control with Blynk and RGB Cycling
 
 This project allows you to **control multiple LEDs**, including an **RGB LED**, using the **Blynk app** and an **ESP32** board.  
 It also features **automatic RGB color cycling** and **manual RGB control** via sliders.
+
 
 ---
 
 ## ✨ Features
 
 - 🔵 Control up to **5 individual LEDs** (LED1 to LED5) via the Blynk app.
-- 🌈 Automatic **RGB color cycling** with adjustable speed.
+- 💡 Automatic **RGB color cycling** with adjustable speed.
 - ⚡ Simple and easy to set up with **ESP32** and **Blynk**.
 
 ---
@@ -25,7 +26,7 @@ It also features **automatic RGB color cycling** and **manual RGB control** via 
 
 - 📟 **ESP32 development board**
 - 💡 **5 LEDs**
-- 🌈 **1 RGB LED** (3 pins: Red, Green, Blue)
+- 🔄 **1 RGB LED** (3 pins: Red, Green, Blue)
 - 🔩 **8 Resistors** (220Ω for LEDs)
 - 🔌 **Breadboard and jumper wires**
 - 📱 **Blynk app** (mobile or web version)
@@ -36,7 +37,7 @@ It also features **automatic RGB color cycling** and **manual RGB control** via 
 ## 🖥️ Circuit Diagram
 
 - ⚡ Connect each LED to a digital pin on the ESP32 through a **220Ω resistor**.
-- 🌈 Connect the RGB LED pins to specific **GPIO pins** on the ESP32 (Red, Green, Blue).
+- 💡 Connect the RGB LED pins to specific **GPIO pins** on the ESP32 (Red, Green, Blue).
 - 🔋 Ensure proper **power supply** to your ESP32 board.
 
 ---
