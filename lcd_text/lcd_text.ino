@@ -11,7 +11,7 @@ void setup() {
 }
 
 void loop() {
-  String message = "a svi kako ste"; // Tekst za pomeranje
+  String message = "hello world"; // Tekst za pomeranje
   int messageLength = message.length();         // Dužina poruke
   
   // Petlja za pomeranje teksta s leva na desno
