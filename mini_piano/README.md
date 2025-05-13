@@ -44,7 +44,7 @@ This is a simple **Arduino mini piano** project using 6 push buttons, 6 LEDs, an
 
 Watch the mini piano in action:
 
-[![Watch the video](https://img.youtube.com/vi/HNtZoiYIM40/0.jpg)](https://www.youtube.com/shorts/-_8KB8qRQIQ)
+[![Watch the video](https://img.youtube.com/vi/-_8KB8qRQIQ/0.jpg)](https://www.youtube.com/shorts/-_8KB8qRQIQ)
 
 ---
 
