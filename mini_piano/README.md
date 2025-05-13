@@ -40,6 +40,14 @@ This is a simple **Arduino mini piano** project using 6 push buttons, 6 LEDs, an
 
 ---
 
+## 🎥 Demo Video
+
+Watch the mini piano in action:
+
+[![Watch the video](https://img.youtube.com/vi/HNtZoiYIM40/0.jpg)](https://www.youtube.com/shorts/-_8KB8qRQIQ)
+
+---
+
 ## 📄 Dependencies
 
 Make sure you have the `pitches.h` file in your project. It defines note frequencies like `NOTE_C4`, `NOTE_D4`, etc.
