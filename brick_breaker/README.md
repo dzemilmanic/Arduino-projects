@@ -11,7 +11,6 @@ This project is a simple version of the classic "Breakout" game built for Arduin
 - Arduino Uno (or compatible board)
 - OLED display (SSD1306, 128x64, I2C, address: `0x3C`)
 - Joystick module (analog Y-axis to A1, button to D8)
-- Unconnected analog pin A2 (for random seed generation)
 - Breadboard and jumper wires
 
 ---
