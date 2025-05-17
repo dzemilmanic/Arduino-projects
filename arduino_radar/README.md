@@ -2,6 +2,8 @@
 
 This project demonstrates the use of an ultrasonic sensor to measure distances and visualize the results in real-time using a radar-like display created in Processing 4.
 
+---
+
 ## ✨ Features
 
 - 🛜 **Real-Time Distance Measurement**: Measures the distance to objects using the HC-SR04 ultrasonic sensor.
