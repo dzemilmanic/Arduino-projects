@@ -2,6 +2,10 @@
 
 This project is a simple version of the classic "Breakout" game built for Arduino using an **OLED display** and **joystick module**. The player moves a paddle left and right using the joystick to bounce the ball and break all the bricks. If the ball falls below the paddle – the game is lost. If all bricks are destroyed – you win!
 
+📁 **File**: `brick_breaker.ino`
+
+---
+
 ## 📦 Components
 
 - Arduino Uno (or compatible board)
@@ -9,6 +13,8 @@ This project is a simple version of the classic "Breakout" game built for Arduin
 - Joystick module (analog Y-axis to A1, button to D8)
 - Unconnected analog pin A2 (for random seed generation)
 - Breadboard and jumper wires
+
+---
 
 ## ⚙️ Wiring
 
@@ -22,6 +28,8 @@ This project is a simple version of the classic "Breakout" game built for Arduin
 | Joystick SW   | D8          |
 | Random seed   | A2 (unconnected) |
 
+---
+
 ## 🧠 Features
 
 - Paddle control using joystick (left/right)
@@ -32,10 +40,14 @@ This project is a simple version of the classic "Breakout" game built for Arduin
 - Lose condition: ball falls below paddle
 - Press joystick button to reset game
 
+---
+
 ## 🎮 Controls
 
 - **Move paddle:** Joystick (left/right on Y-axis)
 - **Reset game:** Press joystick button (SW)
+
+---
 
 ## 📚 Libraries
 
@@ -47,6 +59,16 @@ Make sure you have the following libraries installed in the Arduino IDE:
 Install via:  
 **Arduino IDE > Tools > Manage Libraries...**
 
+---
+
+## 🎥 Demo Video
+
+Watch the memory game in action:
+
+[![Watch the video](https://img.youtube.com/vi/-------/0.jpg)]()
+
+---
+
 ## 🚀 Getting Started
 
 1. Connect components according to the wiring table above.
@@ -54,6 +76,8 @@ Install via:
 3. Select your board and COM port.
 4. Upload the code.
 5. Enjoy the game on your OLED display!
+
+---
 
 ## 📝 License
 
