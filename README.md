@@ -1,5 +1,7 @@
 # 🤖 Arduino Projects Collection  
 
+🌟 **If you like this repository, don't forget to give it a ⭐ star!**  
+
 Welcome to the **Arduino Projects Collection**! 🚀  
 This repository contains a series of **fun and beginner-friendly** Arduino projects. Each project demonstrates different aspects of Arduino **programming** and **hardware interfacing**.
 
