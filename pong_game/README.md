@@ -2,6 +2,8 @@
 
 A classic Pong-style game built for small OLED displays using an Arduino. Control your paddle using physical buttons and compete against a simple AI-controlled paddle.
 
+📁 **File Name:** `pong_game.ino`
+
 ---
 
 ## 📦 Components Used
@@ -10,6 +12,18 @@ A classic Pong-style game built for small OLED displays using an Arduino. Contro
 - 🖥️ **Display**: OLED SSD1306 (128x64 pixels, I2C interface)
 - 🎮 **Buttons**: 2 pushbuttons (Up/Down)
 - 🔌 **Wiring**: Breadboard & jumper wires
+
+
+## 🧰 Components Used
+
+| Component        | Quantity |
+|------------------|----------|
+| Arduino (Uno/Nano) | 1        |
+| Display      | 1        |
+| Buttons              | 2        |
+| Resistors (10kΩ) | 2 |
+| Jumper Wires      | Several  |
+| Breadboard        | 1        |
 
 ---
 
