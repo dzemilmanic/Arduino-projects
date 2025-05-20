@@ -6,14 +6,6 @@ A classic Pong-style game built for small OLED displays using an Arduino. Contro
 
 ---
 
-## 📦 Components Used
-
-- 🧠 **Microcontroller**: Arduino Uno (or compatible)
-- 🖥️ **Display**: OLED SSD1306 (128x64 pixels, I2C interface)
-- 🎮 **Buttons**: 2 pushbuttons (Up/Down)
-- 🔌 **Wiring**: Breadboard & jumper wires
-
-
 ## 🧰 Components Used
 
 | Component        | Quantity |
