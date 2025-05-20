@@ -2,12 +2,16 @@
 
 This project demonstrates the use of an ultrasonic sensor to measure distances and visualize the results in real-time using a radar-like display created in Processing 4.
 
+---
+
 ## ✨ Features
 
 - 🛜 **Real-Time Distance Measurement**: Measures the distance to objects using the HC-SR04 ultrasonic sensor.
 - 🛰️ **Radar Visualization**: Displays distance and angle data on a radar-like interface in Processing 4.
 - 🖥️ **Interactive Display**: Shows object positions, angles, and distance ranges dynamically.
 - 🎨 **Customizable**: Easily modify the code for different ranges or visualization styles.
+
+---
 
 ## 🧠 How It Works
 
@@ -28,6 +32,8 @@ This project demonstrates the use of an ultrasonic sensor to measure distances a
   - Green lines representing the radar sweep.
   - Red dots indicating detected objects within range.
   - Text displaying the angle and distance.
+ 
+---
 
 ## 🧰 Components Needed
 
@@ -36,6 +42,8 @@ This project demonstrates the use of an ultrasonic sensor to measure distances a
 - SG90 Servo Motor
 - Breadboard and jumper wires
 - Processing 4 installed
+
+---
 
 ## 🛠️ Circuit Diagram
 
@@ -51,6 +59,8 @@ This project demonstrates the use of an ultrasonic sensor to measure distances a
 - `VCC` → 5V
 - `GND` → GND
 
+---
+
 ## 📜 Code
 
 ### Arduino Code
@@ -65,11 +75,15 @@ This project demonstrates the use of an ultrasonic sensor to measure distances a
 - It reads the angle and distance values from the serial port and creates a radar-like display.
 - File: `processing_radar.pde`
 
+---
+
 ## 🎬 Demo Video
 
 Check out the gameplay demo below:
 
 [![Watch the video](https://img.youtube.com/vi/ioOisb6dLVQ/0.jpg)](https://youtube.com/shorts/ioOisb6dLVQ)
+
+---
 
 ## 🚀 How to Use
 
@@ -93,11 +107,15 @@ Check out the gameplay demo below:
 
 - The radar interface will display real-time object positions based on the ultrasonic sensor readings.
 
+---
+
 ## 🎨 Customization
 
 - **Range Adjustment**: Modify the Arduino code to adjust the maximum distance range.
 - **Display Style**: Change colors, fonts, or other visual elements in the Processing sketch.
 - **Additional Features**: Add sound alerts or save data logs for detected objects.
+
+---
 
 ## 📄 License
 
