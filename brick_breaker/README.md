@@ -6,12 +6,15 @@ This project is a simple version of the classic "Breakout" game built for Arduin
 
 ---
 
-## 📦 Components
+## 🧰 Components Used
 
-- Arduino Uno (or compatible board)
-- OLED display (SSD1306, 128x64, I2C, address: `0x3C`)
-- Joystick module (analog Y-axis to A1, button to D8)
-- Breadboard and jumper wires
+| Component        | Quantity |
+|------------------|----------|
+| Arduino (Uno/Nano) | 1        |
+| Display      | 1        |
+| Joystick module              | 1        |
+| Jumper Wires      | Several  |
+| Breadboard        | 1        |
 
 ---
 
