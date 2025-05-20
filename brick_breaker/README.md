@@ -64,7 +64,7 @@ Install via:
 
 Watch the memory game in action:
 
-[![Watch the video](https://img.youtube.com/vi/-------/0.jpg)]()
+[![Watch the video](https://img.youtube.com/vi/Pwg9WEZFZWk/0.jpg)](https://www.youtube.com/shorts/Pwg9WEZFZWk)
 
 ---
 
