@@ -54,7 +54,7 @@ Install the following Arduino libraries via the Library Manager:
 
 Watch the memory game in action:
 
-[![Watch the video](https://img.youtube.com/vi/O8-jseVJHNM/0.jpg)]((https://www.youtube.com/shorts/O8-jseVJHNM))
+[![Watch the video](https://img.youtube.com/vi/O8-jseVJHNM/0.jpg)](https://www.youtube.com/shorts/O8-jseVJHNM)
 
 ---
 
