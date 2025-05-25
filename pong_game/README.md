@@ -50,6 +50,14 @@ Install the following Arduino libraries via the Library Manager:
 
 ---
 
+## 🎥 Demo Video
+
+Watch the memory game in action:
+
+[![Watch the video](https://img.youtube.com/vi/O8-jseVJHNM/0.jpg)]((https://www.youtube.com/shorts/O8-jseVJHNM))
+
+---
+
 ## 🚀 Getting Started
 
 1. Connect the OLED screen and buttons to the correct pins.
